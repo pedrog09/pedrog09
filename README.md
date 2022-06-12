@@ -1,4 +1,4 @@
-<img align="right" width="100em"
+<img align="right" width="50em"
 					src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"/>
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px"> Hello There! I’m Pedro Guilherme
