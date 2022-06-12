@@ -1,5 +1,3 @@
-<img align="right" width="10px"
-					src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"/>
 
 ## Hello There! I’m Pedro Guilherme
    Computer Science student at Instituto Federal de Ciência e Tecnologia do Ceará ( IFCE )
@@ -46,8 +44,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrog09&label=Profile%20views&color=129e00&style=plastic" alt="Pedro" /> </p>
 
 
+<img align="right" width="500em"
+					src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"/>    video bom
 
 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> maozinha
 
 
 <!---
