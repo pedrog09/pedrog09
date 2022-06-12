@@ -1,4 +1,4 @@
-<img align="right" width="200em"
+<img align="right" width="10em"
 					src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"/>
 
 ## Hello There! I’m Pedro Guilherme
