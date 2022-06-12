@@ -1,7 +1,7 @@
-<img align="right" width="50em"
+<img align="left" width="500em"
 					src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"/>
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px"> Hello There! I’m Pedro Guilherme
+## Hello There! I’m Pedro Guilherme
    Computer Science student at Instituto Federal de Ciência e Tecnologia do Ceará ( IFCE )
 ###   - About me
 
