@@ -3,7 +3,7 @@
    Computer Science student at Instituto Federal de Ciência e Tecnologia do Ceará ( IFCE )
 ###   - About me
 
-- 🌱 I’m learning Cyber Security and playing CTF at TryHackMe and HackTheClub
+- 🌱 I’m learning Cyber Security and playing CTF at TryHackMe and HackTheBox
 
 - 🐱‍👤 𝔻𝕖𝕧 |  ℂ, ℙ𝕪𝕥𝕙𝕠𝕟
 
